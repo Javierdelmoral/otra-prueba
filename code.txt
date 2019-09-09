@@ -1,1 +1,1 @@
-otro cambio desde newbranch
+resolvemos el conflicto al hacer merge
